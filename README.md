@@ -8,7 +8,6 @@ A portfolio showcasing Malik Saqib Altaf's skills in React, HTML, CSS, and JavaS
 ---
 
 
-
 ## Technologies  
 
 | Technologies Used |
