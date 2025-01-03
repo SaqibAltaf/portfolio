@@ -7,7 +7,15 @@ A portfolio showcasing Malik Saqib Altaf's skills in React, HTML, CSS, and JavaS
 
 ---
 
+## Responsive Design  
 
+### Large Screen View  
+<img src="./src/assets/lgScreen.gif" width=900px>  
+
+### Medium & Small Screen View  
+<img src="./src/assets/md_smScreen.gif" width=900px>  
+
+---
 
 ## Technologies  
 
