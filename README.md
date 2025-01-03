@@ -3,13 +3,11 @@
 ## Overview  
 A portfolio showcasing Malik Saqib Altaf's skills in React, HTML, CSS, and JavaScript. It aims to attract employers for part-time or full-time roles.  
 
-**Live Demo**: [Portfolio Link](vercel)  
+**Live Demo**: [Portfolio Link](https://saqib-portfolio-tawny.vercel.app/)  
 
 ---
 
 
-
----
 
 ## Technologies  
 
